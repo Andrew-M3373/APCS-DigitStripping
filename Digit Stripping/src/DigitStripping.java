@@ -7,7 +7,7 @@ public class DigitStripping {
 		
 		Scanner userInput = new Scanner(System.in);
 		int number = userInput.nextInt();
-		System.out.print("\nYour number printed backwards is: ");
+		System.out.print("\nYour number printed backwards is ");
 		int digit = number;
 		
 		while (number > 0)
